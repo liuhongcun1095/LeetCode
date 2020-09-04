@@ -211,6 +211,7 @@
     <ClCompile Include="移除元素.cpp" />
     <ClCompile Include="编程题1.cpp" />
     <ClCompile Include="翻转字符串里的单词.cpp" />
+    <ClCompile Include="计算字符串最后一个单词的长度，单词以空格隔开.cpp" />
     <ClCompile Include="设计链表.cpp" />
     <ClCompile Include="53.连续最大子序列和.cpp" />
     <ClCompile Include="长度最小的子数组.cpp" />
