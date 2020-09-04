@@ -91,6 +91,12 @@
     <Filter Include="源文件\999笔试真题\百度">
       <UniqueIdentifier>{74d23dc3-f8da-4234-ad09-f9a09703dc6d}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\999笔试真题\哔哩哔哩">
+      <UniqueIdentifier>{006daaa6-f129-4073-b128-06cc4d2cc39a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\牛客">
+      <UniqueIdentifier>{d0ca046e-8fc4-419f-ac0a-09dbb5406db5}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="对角线遍历.cpp">
@@ -332,6 +338,18 @@
     </ClCompile>
     <ClCompile Include="指针初始化问题.cpp">
       <Filter>源文件\999笔试真题\百度</Filter>
+    </ClCompile>
+    <ClCompile Include="06.混合背包.cpp">
+      <Filter>源文件\bilibili\001背包九讲</Filter>
+    </ClCompile>
+    <ClCompile Include="07.二维费用问题.cpp">
+      <Filter>源文件\bilibili\001背包九讲</Filter>
+    </ClCompile>
+    <ClCompile Include="平均字符串长度.cpp">
+      <Filter>源文件\999笔试真题\哔哩哔哩</Filter>
+    </ClCompile>
+    <ClCompile Include="08.分组背包.cpp">
+      <Filter>源文件\bilibili\001背包九讲</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

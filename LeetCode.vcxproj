@@ -144,6 +144,9 @@
     <ClCompile Include="03.多重背包问题Ⅰ.cpp" />
     <ClCompile Include="04.多重背包问题Ⅱ.cpp" />
     <ClCompile Include="05.多重背包问题Ⅲ.cpp" />
+    <ClCompile Include="06.混合背包.cpp" />
+    <ClCompile Include="07.二维费用问题.cpp" />
+    <ClCompile Include="08.分组背包.cpp" />
     <ClCompile Include="133.克隆图bfs.cpp" />
     <ClCompile Include="133.克隆图dfs.cpp" />
     <ClCompile Include="141.环形链表.cpp" />
@@ -179,6 +182,7 @@
     <ClCompile Include="寻找旋转排序数组中的最小值.cpp" />
     <ClCompile Include="200.岛屿数量dfs.cpp" />
     <ClCompile Include="左上到右下的最短路径2.cpp" />
+    <ClCompile Include="平均字符串长度.cpp" />
     <ClCompile Include="搜索插入位置.cpp" />
     <ClCompile Include="数组拆分.cpp" />
     <ClCompile Include="方块最小未消除行.cpp" />
