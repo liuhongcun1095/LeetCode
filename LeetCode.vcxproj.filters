@@ -324,13 +324,13 @@
     <ClCompile Include="源1.cpp">
       <Filter>源文件\999笔试真题\百度</Filter>
     </ClCompile>
-    <ClCompile Include="源2.cpp">
-      <Filter>源文件\999笔试真题\百度</Filter>
-    </ClCompile>
-    <ClCompile Include="源3.cpp">
-      <Filter>源文件\999笔试真题\百度</Filter>
-    </ClCompile>
     <ClCompile Include="左上到右下的最短路径2.cpp">
+      <Filter>源文件\999笔试真题\百度</Filter>
+    </ClCompile>
+    <ClCompile Include="父类子类继承派生.cpp">
+      <Filter>源文件\999笔试真题\百度</Filter>
+    </ClCompile>
+    <ClCompile Include="指针初始化问题.cpp">
       <Filter>源文件\999笔试真题\百度</Filter>
     </ClCompile>
   </ItemGroup>
