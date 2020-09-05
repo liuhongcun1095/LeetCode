@@ -97,6 +97,15 @@
     <Filter Include="源文件\牛客">
       <UniqueIdentifier>{d0ca046e-8fc4-419f-ac0a-09dbb5406db5}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\牛客\华为机考练习">
+      <UniqueIdentifier>{77b2aa38-554c-47e9-9b0a-398848db7ec7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\剑指offer">
+      <UniqueIdentifier>{e633f75c-3974-46b4-aead-e391bb1115fd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\999笔试真题\网易互娱">
+      <UniqueIdentifier>{1f677277-2256-4127-b54e-cc18215b989f}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="对角线遍历.cpp">
@@ -351,8 +360,47 @@
     <ClCompile Include="08.分组背包.cpp">
       <Filter>源文件\bilibili\001背包九讲</Filter>
     </ClCompile>
-    <ClCompile Include="计算字符串最后一个单词的长度，单词以空格隔开.cpp">
-      <Filter>源文件\牛客</Filter>
+    <ClCompile Include="001.计算字符串最后一个单词的长度，单词以空格隔开.cpp">
+      <Filter>源文件\牛客\华为机考练习</Filter>
+    </ClCompile>
+    <ClCompile Include="002.匹配字符个数.cpp">
+      <Filter>源文件\牛客\华为机考练习</Filter>
+    </ClCompile>
+    <ClCompile Include="004.字符串分隔.cpp">
+      <Filter>源文件\牛客\华为机考练习</Filter>
+    </ClCompile>
+    <ClCompile Include="005.进制转换.cpp">
+      <Filter>源文件\牛客\华为机考练习</Filter>
+    </ClCompile>
+    <ClCompile Include="010.字符个数统计.cpp">
+      <Filter>源文件\牛客\华为机考练习</Filter>
+    </ClCompile>
+    <ClCompile Include="003.明明的随机数.cpp">
+      <Filter>源文件\牛客\华为机考练习</Filter>
+    </ClCompile>
+    <ClCompile Include="011.数字颠倒.cpp">
+      <Filter>源文件\牛客\华为机考练习</Filter>
+    </ClCompile>
+    <ClCompile Include="012.字符串反转.cpp">
+      <Filter>源文件\牛客\华为机考练习</Filter>
+    </ClCompile>
+    <ClCompile Include="014.字串的连接最长路径查找.cpp">
+      <Filter>源文件\牛客\华为机考练习</Filter>
+    </ClCompile>
+    <ClCompile Include="迷宫.cpp">
+      <Filter>源文件\999笔试真题\网易互娱</Filter>
+    </ClCompile>
+    <ClCompile Include="JZ27全排列数字.cpp">
+      <Filter>源文件\剑指offer</Filter>
+    </ClCompile>
+    <ClCompile Include="JZ27全排列字母.cpp">
+      <Filter>源文件\剑指offer</Filter>
+    </ClCompile>
+    <ClCompile Include="等式结果排列.cpp">
+      <Filter>源文件\999笔试真题\网易互娱</Filter>
+    </ClCompile>
+    <ClCompile Include="售货机.cpp">
+      <Filter>源文件\999笔试真题\网易互娱</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
